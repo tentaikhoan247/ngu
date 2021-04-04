@@ -1,0 +1,367 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+.boxtong{
+	width: 600px;
+	height: 1020px;
+	background: #FFFEFE;
+	margin: 0 auto;
+	box-shadow: 11px 8px 32px -9px rgba(0,0,0,0.63);
+-webkit-box-shadow: 11px 8px 32px -9px rgba(0,0,0,0.63);
+-moz-box-shadow: 11px 8px 32px -9px rgba(0,0,0,0.63);
+}
+.header{
+   width: 600px;
+   height: 110px;
+}
+.boitique{
+   width: 480px;
+	height: 50px;
+	margin-left: 60px;
+	color: #E49395;
+}
+.faq a{
+	float: left;
+	margin-top: 30px;
+	font-size: 8px;
+	color: #E49395;
+	text-decoration: none;
+	
+}
+.center{
+	margin-left: 120px;
+	float: left;
+	margin-top: 19px;
+	font-size: 22px;
+}
+.boitique2{
+	width: 480px;
+	height: 63px;
+	margin-left: 60px;
+
+}
+.my a{
+	float: right;
+	margin-top: 30px;
+	font-size: 8px;
+	margin-right: 3px;
+	color: #E49395;
+	text-decoration: none;
+}
+.sign a{
+	float: right;
+	margin-top: 30px;
+	font-size: 8px;
+	margin-right: 10px;
+	color: #E49395;
+	text-decoration: none;
+}
+.home a{
+	float: left;
+	margin-top: 27px;
+	font-size: 10px;
+	color: #E49395;
+	text-decoration: none;
+}
+.travel a{
+	float: left;
+	margin-top: 27px;
+	font-size: 10px;
+	margin-left: 24px;
+	color: #E49395;
+	text-decoration: none;
+}
+.life a{
+	float: left;
+	margin-top: 27px;
+	font-size: 10px;
+	margin-left: 24px;
+	color: #E49395;
+	text-decoration: none;
+}
+.soul a{
+	float: left;
+	margin-top: 27px;
+	font-size: 10px;
+	margin-left: 24px;
+	color: #E49395;
+	text-decoration: none;
+}
+.abao a{
+	float: left;
+	margin-top: 27px;
+	font-size: 10px;
+	margin-left: 24px;
+	color: #E49395;
+	text-decoration: none;
+}
+.review a{
+	float: left;
+	margin-top: 27px;
+	font-size: 10px;
+	margin-left: 24px;
+	color: #E49395;text-decoration: none;
+}
+.stori a{
+	float: left;
+	margin-top: 27px;
+	font-size: 10px;
+	margin-left: 24px;
+	color: #E49395;text-decoration: none;
+}
+.contac a{
+	float: left;
+	margin-top: 27px;
+	font-size: 10px;
+	margin-left: 24px;
+	color: #E49395;text-decoration: none;
+}
+.duoi{
+	height: 160px;
+	width: 600px;
+	background:  #E49395;text-align: center;
+}
+.trip{
+	color: #FFFFFF;
+	float: left;
+	font-size: 22px;
+	margin-left: 90px;
+	margin-top: 105px;
+}
+.trip p{
+	font-size: 8px
+}
+.noidung{
+	width: 520px;
+	height: 800px;
+	margin: 30px auto;
+}
+.phan1{
+	height: 210px;
+	width: 520px;
+	float: right;
+	margin-bottom: 20px
+}
+.video{
+	float: left;
+	border-radius: 5px;
+	overflow: auto;
+}
+.name{
+	float: right;
+	height: 210px;
+	width: 190px;
+	background: #FADCDD;
+	border-radius: 5px;	
+}
+.avata{
+	background: blue;
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+	overflow: hidden;
+}
+.avata img{
+	width: 50px;
+	height: 50px;
+}
+.ten{
+	float: left;
+	margin-left: 10px;
+	margin-top: 15px;
+	color: #363232;
+}
+.ten span{
+	font-size: 25px;color: #363232;
+}
+.ten p{
+	font-size: 10px;
+	word-spacing: 5px;
+	letter-spacing: 1px;
+	margin-left: 10px;color: #363232;
+}
+.gt{
+	float: left;
+	padding: 10px 20px;
+	font-size: 13px;color: #363232;
+}
+.book{
+	background: #C9A4A5;
+	float: left;
+	margin-left: 25px;
+	font-size: 10px;
+	margin-top: 30px;	
+}
+
+.book a{
+	color: #363232;
+	text-decoration: none;
+	padding: 20px;
+}
+.phan2{
+	border-top: 2px solid grey;
+	float: left;
+	width: 520px;
+	height: 269px;
+	margin-bottom: 12px;
+}
+.you{
+	font-size: 25px;
+	margin-top: 20px;
+	margin-left: 55px;
+}
+.this{
+	width: 255px;
+	height: 190px;
+	margin-top: 30px;
+	float: left;
+}
+.this1{
+	float: left;
+	margin-left: 15px;
+	margin-bottom: 10px
+}
+.thisphai{
+	width: 255px;
+	height: 190px;
+	margin-top: 30px;
+	float: right;
+}
+
+.phaitext i{
+	float: left;
+	margin-left: 15px;
+}
+
+.this2{
+	width: 255px;
+	height: 143px;
+	background: url("hinhtrai.png");
+	float: left;
+}
+.hinhphai{
+	width: 255px;
+	height: 143px;
+	background: url("hinhphai.png");
+	float: right;
+	margin-top: 10px
+}
+.this2 .chutrai{
+	font-size: 7px;
+	letter-spacing: 0.5px;
+	padding-left: 15px;
+	margin-top: 100px;
+	color: #FFFFFF;
+}
+.this2 .read1{
+		font-size: 7px;
+	letter-spacing: 0.5px;
+	padding-left: 15px;
+	margin-top: 10px;
+	
+}
+.this2 .read1 a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.chuphai{
+	font-size: 7px;
+	letter-spacing: 0.5px;
+	padding-left: 15px;
+	margin-top: 100px;
+	color: #FFFFFF;
+}
+.read2{
+	font-size: 7px;
+	letter-spacing: 0.5px;
+	padding-left: 15px;
+	margin-top: 10px;
+	color: #FFFFFF;
+}
+.read2 a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.bottom{
+	border-top: 2px solid grey;
+	float: left;
+	width: 520px;
+	height: 269px;
+	margin-top: 30px
+}
+.bottomhinhtrai{
+	width: 230px;
+	height: 120px;
+	background: ;
+	margin-top: 30px;
+	background: #FADCDD;
+	float: left;
+}
+.hinhbottomtrai{
+	width: 115px;
+	height: 120px;
+	background: url("Untitled-1.png");
+	float: left;
+}
+.top{
+	font-size: 12px;
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.textpro{
+	font-size: 10px;
+	float: left;
+	width: 100px;
+	height: 50px;
+	margin-top: 30px;
+	margin-left: 10px;
+}
+.infor{
+	font-size: 8px;
+	float: left;
+	margin-left: 10px;
+}
+.infor a{
+	text-decoration: none;
+	color: #200F0F;
+}
+.baohiem{
+	color: #FFFFFF;
+	margin-left: 10px;
+	margin-top: 100px
+}
+.bottomhinhphai{
+	width: 235px;
+	height: 120px;
+	float: right;
+	background: url("Untitled-2.png");
+	margin-top: 30px;
+	
+}
+.bottomhinhphaitext{
+	margin-left: 10px;
+	font-size: 10px;
+	color: #FFFFFF;
+	margin-top: 70px;
+}
+.bottomhinhphai a{
+	color: #FFFFFF;
+}
+.textread{
+	float: left;
+	margin-left: 10px;
+	font-size: 8px;
+	margin-top: 10px;
+}
+
+
+
+
+
